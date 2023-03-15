@@ -1,0 +1,132 @@
+{
+    "lstJurCtrlAq":[
+        {
+            "key": "keyJcChk1",
+            "text": "SFD"
+        },
+        {
+            "key": "keyJcChk2",
+            "text": "POC"
+        }
+    
+    ],
+     "lstStlNat": [
+        {
+            "key": "keyStlNat1",
+            "text": "NORMAL"
+        },
+        {
+            "key": "keyStlNat2",
+            "text": "ELEVATED"
+        },
+        {
+            "key": "keyStlNat3",
+            "text": "IMMINENT"
+        }
+    ],
+    "lstStlDwr": [
+        {
+            "key": "keyStlDwr1",
+            "text": "NORMAL"
+        },
+        {
+            "key": "keyStlDwr2",
+            "text": "ELEVATED"
+        },
+        {
+            "key": "keyStlDwr3",
+            "text": "IMMINENT"
+        }
+    ],
+    "valMcdate":"",
+    "valMandt":"",
+    "valSubmitted":"",
+    "valDate":"",
+    "valOpName":"",
+    "valUsrName":"",
+    "valcbxJurCtrl":"",
+    "valSecThrLvNat": "",
+    "valSecThrLvDwr": "",
+    "valFlowsProj":"",
+    "valFlows4358":"",
+    "valFlows5966":"",
+    "valFlowsTehach":"",
+    "valFlowsPyramid":"",
+    "valFlowsCastaic":"",
+     "lstPipeSapl": [
+        {
+            "key": "key1",
+            "text": "DC A/B #1"
+        },
+        {
+            "key": "key2",
+            "text": "DC A/B #2"
+        }
+    ],
+    "valPipeSapl":"",
+    "valPipeSaplCfs":"",
+     "lstPipeInland": [
+        {
+            "key": "key1",
+            "text": "DC A/B #2"
+        }
+    ],
+    "valPipeInland":"",
+    "valPipeInlandCfs":"",
+     "lstPipeRialto": [
+       {
+            "key": "key1",
+            "text": "DC A/B #1"
+        },
+        {
+            "key": "key2",
+            "text": "DC A/B #2"
+        }
+    ],
+    "valPipeRialto":"",
+    "valPipeRialtoCfs":"",
+    "valPipeLasFlores":"",
+    "lstIntakeCastaic": [
+       {
+            "key": "key1",
+            "text": "OPEN"
+        },
+        {
+            "key": "key2",
+            "text": "CLOSED"
+        }
+    ],
+    "valIntakeCastaic":"",
+    "valIntakeCastaicRmrk":"",
+    "valIntakeSanBerRmrk":"",
+    "valIntakePerrisRmrk":"",
+    "valAlppRmrk":"",
+    "valPbppRmrk":"",
+    "valPbppFbay":"",
+    "valMjppFbay":"",
+    "valMjppSilver":"",
+    "valMjppRmrk":"",
+    "val_DcppIso1":"",
+    "val_DcppIso2":"",
+    "val_DcppIso3":"",
+    "val_DcppIso4":"",
+    "valDcppAfter1":"",
+    "valDcppAfter2":"",
+    "valDcppSAPL":"",
+    "valDcppSAPLCfs":"",
+    "valDcppInland":"",
+    "valDcppInlandCfs":"",
+    "valDcppRialto":"",
+    "valDcppRialtoCfs":"",
+    "valDcppRmrk":"",
+    "valGsppRmrk":"",
+    "valChppRmrk":"",
+    "valCvppRmrk":"",
+    "valOsppRmrk":"",
+    "valOsppFbay":"",
+    "valWwppRmrk":"",
+
+    "cbx_tooltip": "To change: Click the \n\r drop-down arrow \n\r and make selection.",
+    "rmk_tooltip": "Enter exceptions and remarks.  \n\rThis field will expand  \n\rto accommodate your text.",
+    "tnk1tool": "Enter water level for #1"
+}
